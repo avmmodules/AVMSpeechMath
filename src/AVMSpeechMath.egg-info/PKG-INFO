@@ -1,0 +1,15 @@
+Metadata-Version: 1.2
+Name: AVMSpeechMath
+Version: 0.0.3
+Summary: Perform voice operations in Spanish with Python.
+Home-page: https://github.com/avmmodules/AVMSpeechMath
+Author: AlejandroV
+Author-email: avmmodules@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/avmmodules/AVMSpeechMath/issues
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
