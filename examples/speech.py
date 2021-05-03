@@ -16,7 +16,7 @@ engine = pyttsx3.init()
 
 def speak(text):
     '''
-        here, virtual assistant can say something
+        here can say something
     '''
     engine.say(text)
     engine.runAndWait()
