@@ -50,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![miniatura][miniatura]](https://pypi.org/project/AVMSpeechMath/)
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -66,12 +66,9 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+You must make sure you have installed the following modules.
 * speech_recognition
   ```python
   pip install speech_recognition
@@ -89,7 +86,7 @@ This is an example of how to list things you need to use the software and how to
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://pypi.org/project/AVMSpeechMath/)_
+_For more examples, please refer to the [Examples packages](https://github.com/avmmodules/AVMSpeechMath/tree/main/examples)_
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -115,9 +112,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Youtube - [@avmmodules](https://youtube.com/avmmodules)
+Youtube: [@avmmodules](https://youtube.com/avmmodules)
 
-Email - avmmodules@gmail.com
+Email: avmmodules@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -131,4 +128,4 @@ Email - avmmodules@gmail.com
 [issues-url]: https://github.com/avmmodules/AVMSpeechMath/issues
 [license-shield]: https://img.shields.io/github/license/avmmodules/AVMSpeechMath.svg?style=for-the-badge
 [license-url]: https://github.com/avmmodules/AVMSpeechMath/blob/main/LICENSE
-[product-screenshot]: images/screenshot.png
+[miniatura]: img/screenshot.png
