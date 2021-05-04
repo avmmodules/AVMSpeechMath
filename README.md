@@ -81,37 +81,36 @@ You need to make sure you have installed the following modules.
 
 ### Installation
 
-* Install the package
-   ```python
-   pip install AVMSpeechMath
-   ```
+```python
+pip install AVMSpeechMath
+```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 * Example 1
-```python
-import AVMSpeechMath as sm
+    ```python
+    import AVMSpeechMath as sm
 
-res = sm.getResult("cuanto es dos mas dos") # without accents
-print(res) # prints 'El resultado es 4'
-```
+    res = sm.getResult("cuanto es dos mas dos") # without accents
+    print(res) # prints 'El resultado es 4'
+    ```
 
 * Example 2
-```python
-import AVMSpeechMath as sm
+    ```python
+    import AVMSpeechMath as sm
 
-res = sm.getResult("cuanto es cinco por 4000") # without accents
-print(res) # prints 'El resultado es 20,000'
-```
+    res = sm.getResult("cuanto es cinco por 4000") # without accents
+    print(res) # prints 'El resultado es 20,000'
+    ```
 
 * Example 3
-```python
-import AVMSpeechMath as sm
+    ```python
+    import AVMSpeechMath as sm
 
-res = sm.getResult("cuanto es la raiz de cien") # without accents
-print(res) # prints 'El resultado es 10'
-```
+    res = sm.getResult("cuanto es la raiz de cien") # without accents
+    print(res) # prints 'El resultado es 10'
+    ```
 
 _For more examples, please refer to the [Examples packages](https://github.com/avmmodules/AVMSpeechMath/tree/main/examples)_
 
