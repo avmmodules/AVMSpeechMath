@@ -52,7 +52,7 @@
 
 [![miniatura][miniatura]](https://pypi.org/project/AVMSpeechMath/)
 
-If you want to see the explanation in video, see the [link](https://youtube.com/avmmodules)
+If you want to watch the explanation in video, see the [link](https://youtube.com/avmmodules)
 
 <!-- GETTING STARTED -->
 ## Getting Started
