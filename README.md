@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/avmmodules/AVMSpeechMath">
-    <img src="img/logo.png" alt="Logo" width="260" height="180">
+    <img src="img/avm.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">AVMSpeechMath</h3>
