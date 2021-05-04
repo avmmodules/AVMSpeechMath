@@ -84,7 +84,12 @@ You must make sure you have installed the following modules.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+```python
+import AVMSpeechMath as sm
+
+res = sm.getResult("cuanto es dos mas dos") # without accents
+print(res) # prints 'El resultado es 4'
+```
 
 _For more examples, please refer to the [Examples packages](https://github.com/avmmodules/AVMSpeechMath/tree/main/examples)_
 
