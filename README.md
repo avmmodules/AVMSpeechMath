@@ -44,7 +44,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -90,7 +89,7 @@ This is an example of how to list things you need to use the software and how to
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://pypi.org/project/AVMSpeechMath/)_
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -116,11 +115,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Instagram - [@avmmodules](https://instagram.com/avmmodules)
-Twitter - [@avmmodules](https://twitter.com/avmmodules)
-Email - avmmodules@gmail.com
+Youtube - [@avmmodules](https://youtube.com/avmmodules)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Email - avmmodules@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
