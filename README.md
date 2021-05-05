@@ -61,7 +61,7 @@ If you want to watch the explanation in video, see the [link](https://youtube.co
 
 You need to make sure you have installed the following modules.
 * speech_recognition
-  ```bash
+  ```s
   pip install SpeechRecognition
   ```
 
@@ -129,7 +129,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Youtube: [@avmmodules](https://youtube.com/avmmodules)
+Youtube: [/avmmodules](https://youtube.com/avmmodules)
 
 Email: avmmodules@gmail.com
 
