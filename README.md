@@ -61,12 +61,12 @@ If you want to watch the explanation in video, see the [link](https://youtube.co
 
 You need to make sure you have installed the following modules.
 * speech_recognition
-  ```python
-  pip install speech_recognition
+  ```sh
+  pip install SpeechRecognition
   ```
 
 * pyttsx3
-  ```python
+  ```py
   pip install pyttsx3
   ```
 
