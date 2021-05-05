@@ -66,7 +66,7 @@ You need to make sure you have installed the following modules.
   ```
 
 * pyttsx3
-  ```bash
+  ```s
   pip install pyttsx3
   ```
 
