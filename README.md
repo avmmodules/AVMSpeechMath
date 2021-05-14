@@ -83,7 +83,7 @@ pip install AVMSpeechMath
     ```python
     import AVMSpeechMath as sm
 
-    res = sm.getResult("cuanto es dos mas dos") # without accents
+    res = sm.getResult("Cuánto es dos más dos")
     print(res) # prints 'El resultado es 4'
     ```
 
@@ -91,7 +91,7 @@ pip install AVMSpeechMath
     ```python
     import AVMSpeechMath as sm
 
-    res = sm.getResult("cuanto es cinco por 4000") # without accents
+    res = sm.getResult("Cuánto es cinco por 4000")
     print(res) # prints 'El resultado es 20,000'
     ```
 
@@ -99,7 +99,7 @@ pip install AVMSpeechMath
     ```python
     import AVMSpeechMath as sm
 
-    res = sm.getResult("raiz de cien") # without accents
+    res = sm.getResult("Raiz de cien")
     print(res) # prints 'El resultado es 10'
     ```
 
