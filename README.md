@@ -145,4 +145,4 @@ Email: avmmodules@gmail.com
 [issues-url]: https://github.com/avmmodules/AVMSpeechMath/issues
 [license-shield]: https://img.shields.io/github/license/avmmodules/AVMSpeechMath.svg?style=for-the-badge
 [license-url]: https://github.com/avmmodules/AVMSpeechMath/blob/main/LICENSE
-[miniatura]: https://raw.githubusercontent.com/avmmodules/AVMSpeechMath/main/img/logo.png
+[miniatura]: https://raw.githubusercontent.com/avmmodules/AVMSpeechMath/main/img/miniatura.png

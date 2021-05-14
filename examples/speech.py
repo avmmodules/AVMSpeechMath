@@ -3,7 +3,7 @@
     Perform voice operations in Spanish with Python.
 
     Author: AlejandroV
-    Version: 0.0.4
+    Version: 0.0.5
     Video: https://youtu.be/uWqnGSVdPPg
 '''
 import AVMSpeechMath as sm

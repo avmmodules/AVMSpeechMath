@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="AVMSpeechMath",
-    version="0.0.3",
+    version="0.0.5",
     author="AlejandroV",
     author_email="avmmodules@gmail.com",
     description="Perform voice operations in Spanish with Python.",
