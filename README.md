@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/avmmodules/AVMSpeechMath">
-    <img src="img/logo.png" alt="Logo" width="300">
+    <img src="https://raw.githubusercontent.com/avmmodules/AVMSpeechMath/main/img/logo.png" alt="Logo" width="300">
   </a>
 
   <h3 align="center">AVMSpeechMath</h3>
@@ -99,7 +99,7 @@ pip install AVMSpeechMath
     ```python
     import AVMSpeechMath as sm
 
-    res = sm.getResult("cuanto es la raiz de cien") # without accents
+    res = sm.getResult("raiz de cien") # without accents
     print(res) # prints 'El resultado es 10'
     ```
 
@@ -145,4 +145,4 @@ Email: avmmodules@gmail.com
 [issues-url]: https://github.com/avmmodules/AVMSpeechMath/issues
 [license-shield]: https://img.shields.io/github/license/avmmodules/AVMSpeechMath.svg?style=for-the-badge
 [license-url]: https://github.com/avmmodules/AVMSpeechMath/blob/main/LICENSE
-[miniatura]: img/screenshot.png
+[miniatura]: img/miniatura.png
