@@ -52,7 +52,7 @@
 
 [![miniatura][miniatura]](https://pypi.org/project/AVMSpeechMath/)
 
-If you want to watch the explanation in video, see the [link](https://youtube.com/avmmodules)
+If you want to watch the explanation in video, see the [link](https://youtu.be/uWqnGSVdPPg)
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -145,4 +145,4 @@ Email: avmmodules@gmail.com
 [issues-url]: https://github.com/avmmodules/AVMSpeechMath/issues
 [license-shield]: https://img.shields.io/github/license/avmmodules/AVMSpeechMath.svg?style=for-the-badge
 [license-url]: https://github.com/avmmodules/AVMSpeechMath/blob/main/LICENSE
-[miniatura]: img/miniatura.png
+[miniatura]: https://raw.githubusercontent.com/avmmodules/AVMSpeechMath/main/img/logo.png

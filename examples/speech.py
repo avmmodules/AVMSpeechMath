@@ -3,8 +3,8 @@
     Perform voice operations in Spanish with Python.
 
     Author: AlejandroV
-    Version: 0.0.3
-    Video: youtube.com/avmmodules
+    Version: 0.0.4
+    Video: https://youtu.be/uWqnGSVdPPg
 '''
 import AVMSpeechMath as sm
 import speech_recognition as sr
@@ -15,9 +15,7 @@ r = sr.Recognizer()
 engine = pyttsx3.init()
 
 def speak(text):
-    '''
-        here can say something
-    '''
+    ''' here can say something '''
     engine.say(text)
     engine.runAndWait()
 
@@ -25,11 +23,10 @@ try:
     with sr.Microphone() as source:
         print("Escuchando:")
         audio = r.listen(source)
-        equation = r.recognize_google(audio, language='es-ES').lower()
-        # deletes accents
-        equation = equation.replace("á","a").replace("é","e").replace("í","i").replace("ó","o").replace("ú","u")
+        equation = r.recognize_google(audio, language='es-ES')
         print(equation)
         
+        # get result
         res = sm.getResult(equation)
         speak(res)
 

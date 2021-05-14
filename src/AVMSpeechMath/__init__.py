@@ -3,15 +3,13 @@
     Perform voice operations in Spanish with Python.
 
     Author: AlejandroV
-    Version: 0.0.3
-    Video: youtube.com/avmmodules
+    Version: 0.0.4
+    Video: https://youtu.be/uWqnGSVdPPg
 '''
 from math import *
 
 def getEquation(equation):
-    '''
-        Replace words (without accents) for mathematical signs.
-    '''
+    ''' Replace words (without accents) for mathematical signs. '''
     obj = {"cuanto es":"", "mas":"+", "menos":"-", "entre":"/", "por ":"* ", "x":"*", "abre parentesis":"(", "cierra parentesis":")", "negativo":"-", "elevado a la":"**", "a porcentaje":"", "y":"", "la":"", "el":"", "raiz de":"", ",":""}
     objKeys = list(obj.keys())
     objValues = list(obj.values())
@@ -23,7 +21,8 @@ def getEquation(equation):
 
 def transformNumbers(equation):
     '''
-        If the voice gets numbers with letters instead of numbers, we replace them here.
+        If the voice gets numbers with letters instead of numbers, 
+        we replace them here.
     '''
     nums = {"cero": "0", "uno": "1", "dos": "2", "tres": "3", "cuatro": "4", "cinco": "5", "seis": "6", "siete": "7", "ocho": "8", "nueve": "9", "diez": "10", "once": "11", "doce": "12", "trece": "13", "catorce": "14", "quince": "15","dieciseis": "16", "diecisiete": "17", "dieciocho": "18", "diecinueve": "19","veinte": "20", "treinta": "30", "cuarenta": "40", "cincuenta": "50", "sesenta": "60", "setenta": "70", "ochenta": "80", "noventa": "90", "cien": "100", "mil": "1000", "millon": "1000000", "billon": "1000000000", "trillon": "1000000000000", "cuatrillon": "1000000000000000", "quintillon": "1000000000000000000", "sextillon": "1000000000000000000000"}
     numsKeys = list(nums.keys())
@@ -39,9 +38,9 @@ def transformNumbers(equation):
     return ("".join(eqSplit))
     
 def getResult(equation):
-    '''
-        Get result calling other functions.
-    '''
+    ''' Get result calling other functions. '''
+    equation = equation.lower()
+    equation = equation.replace("á","a").replace("é","e").replace("í","i").replace("ó","o").replace("ú","u")
     eq = transformNumbers(getEquation(equation))
     
     try:
