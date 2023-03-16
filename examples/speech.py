@@ -1,8 +1,6 @@
 '''
-    Description:
-    Perform voice operations in Spanish with Python.
-
-    Author: AlejandroV
+    Description: Perform voice operations in Spanish with Python.
+    Author: aulerjbailey
     Version: 0.0.5
     Video: https://youtu.be/uWqnGSVdPPg
 '''
